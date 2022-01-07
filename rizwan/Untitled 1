@@ -1,0 +1,48 @@
+
+1. Open google.com from your selenium
+
+2. search amex in the search box
+
+3. select the first visible text in the drop down
+
+4. print the title of the home page
+
+5. print the url
+
+6. find the number of links in the current home page
+
+7. get the title of each link
+
+8. find the number of inactive elements/links in the home page
+
+//ul[@role='list box']//li/descendent::div[@class='value']
+
+//a[test()='value']//parent::td[@class='value']//preceding-sibling;;td[@class='value']//input[@name='value']
+
+
+reverse a string 
+remove element from an array 
+sum of an array
+find the 2nd largest/lowest value in an array
+find the index in an array 
+average of a String
+practice typecasting 
+largest and lowest number in an array
+
+
+diffference between collection and collections
+
+diff b2n array collection
+arraylist linked list
+arraylist vector 
+hashmap hashset
+hashset linked hashset
+list and 
+
+hashmap and hashtable
+hashmap and linked hashmap
+definitions
+iterator
+enumerator
+vector
+collection
